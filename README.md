@@ -24,6 +24,10 @@ Most injuries occur during personal flights over the years, followed by flights 
 
 The highest number of injuries occur during the landing phase of flights, followed by injuries during cruise, takeoff, taxi, and approach phases, in that order.
 
+Below is the link to the published Tableau:
+
+https://public.tableau.com/app/profile/agnes.chomba/viz/AircraftRiskAnalysisforInvestmentDecisions/AircraftRiskAnalysis?publish=yes
+
 
 ##  Recommendations
 To address these risks, it is recommended to invest in advanced training programs for pilots, with a particular focus on landing techniques, emergency landing procedures, and managing adverse weather conditions. In addition, equipping aircraft with the latest technology, such as Enhanced Vision Systems (EVS), Autoland systems, and Ground Proximity Warning Systems (GPWS), will help pilots achieve more precise landings. Investments should prioritize the instructional aviation sector and related areas, as training institutions and aircraft used for flight instruction tend to have lower injury risks, leading to reduced operational liabilities.
