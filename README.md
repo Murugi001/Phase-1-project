@@ -14,6 +14,7 @@ The data comes from a kaggle from the National Transportation Safety Board that 
 The project employs the following methods: 1.Data Preprocessing: Cleaning data to handle missing values and ensure consistency. 2.Exploratory Data Analysis: Analyzing trends and patterns in accidents by phase, weather,purpose of the flight,number of engines  and  aircraft make. 3.Visualization: Interactive charts and dashboards created in Tableau for different stakeholders utilization.
 
 ## Key Findings
+
 Cessna and Piper aircraft have by far the highest number of accidents, significantly more than any other manufacturers. Beech and Bell follow, but with far fewer cases. Boeing appears in both accident and incident records, with numbers that are close but still relatively low compared to Cessna and Piper.
 
 Aircraft with 0-2 engines generally exhibit lower median injury counts, though they display a high number of outliers wkhile aircraft with 3-4 engines show significantly higher median injury counts and a wider spread of injuries
